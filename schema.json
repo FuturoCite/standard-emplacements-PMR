@@ -183,8 +183,8 @@
             "constraints": {
                 "required": true
             }
-          },
-          {
+         },
+         {
             "name": "street_number_rrn",
             "title": "Code rue national",
             "description": "Code de la voirie où se situe l'emplacement PMR dans le registre national (ou de la voirie la plus proche de l'emplacement PMR si l'emplacement n'est pas en voirie)",
@@ -193,8 +193,8 @@
             "constraints": {
                 "required": false
             }
-           },
-           {
+          },
+          {
             "name": "house_number",
             "title": "Numéro de police (rue) le plus proche",
             "description": "Ce champ est recommandé. Il contient le numéro de police (numéro de rue) le plus proche de l'emplacement PMR.",
@@ -203,8 +203,8 @@
             "constraints": {
                 "required": false
             }
-           },
-           {
+          },
+          {
             "name": "distance",
             "title": "Distance au point d'adresse",
             "description": "Ce champ indique la distance, en mètres, entre l'emplacement PMR et le point d'adresse le plus proche introduit via les autres champs (code_rue_bestadress, num_police, …). En cas de décimale, le séparateur est le point. ",
@@ -213,8 +213,8 @@
             "constraints": {
                 "required": false
             }
-           },
-           {
+          },
+          {
             "name": "coordinates",
             "title": "Coordonnées",
             "description": "Ce champ indique les coordonnées de l'emplacement PMR. Il respecte le format WGS 1984 (latitude,longitude). Ne pas mettre d'espace après la virgule. Les coordonnées d'un lieu peuvent être générées ici : https://www.coordonnees-gps.fr/carte/pays/BE",
@@ -223,8 +223,8 @@
             "constraints": {
                 "required": true
             }
-           },
-           {
+          },
+          {
             "name": "available_places",
             "title": "Nombre de places",
             "description": "Ce champ précise le nombre de places à disposition.",
@@ -233,8 +233,8 @@
             "constraints": {
                 "required": false
             }
-           },
-            {
+          },
+          {
             "name": "length",
             "title": "Longueur",
             "description": "Ce champ indique la longueur, en mètres, de l'emplacement PMR. En cas de décimale, le séparateur est le point.",
@@ -243,8 +243,8 @@
             "constraints": {
                 "required": false
             }
-           },
-           {
+          },
+          {
             "name": "width",
             "title": "Largeur",
             "description": "Ce champ indique la largeur, en mètres, de l'emplacement PMR. En cas de décimale, le séparateur est le point.",
@@ -253,8 +253,8 @@
             "constraints": {
                 "required": false
             }
-           },
-        {
+          },
+          {
             "name": "Modalité",
             "title": "Largeur",
             "description": "Ce champ décrit les modalités de réservation et informations des disponibilités de l'emplacement PMR.",
@@ -263,8 +263,8 @@
             "constraints": {
                 "required": false
             }
-           },
-        {
+          },
+          {
             "name": "availability",
             "title": "Disponibilité",
             "description": "Ce champ précises si l'emplacement PMR est équipé de capteurs permettant d'accéder à des informations sur sa disponibilité en temps réels.",
@@ -273,8 +273,8 @@
             "constraints": {
                 "required": false
             }
-           },
-        {
+          },
+          {
             "name": "equipment",
             "title": "Equipement",
             "description": "Ce champ décrit les équipements présents sur l'emplacement PMR : arceau vélo, bornes de rechargement, installations relatives à l'accessibilité, …",
@@ -283,8 +283,8 @@
             "constraints": {
                 "required": false
             }
-           },
-        {
+          },
+          {
             "name": "created_date",
             "title": "Date de création de la donnée",
             "description": "Ce champ indique la date de création de la donnée dans le jeu. Il respecte le format ISO 8601 : année-mois-jour (YYYY-MM-DD) ",
@@ -293,8 +293,8 @@
             "constraints": {
                 "required": false
             }
-        },
-         {
+          },
+          {
             "name": "last_modified_date",
             "title": "Date de dernière modification de la donnée",
             "description": "Ce champ indique la date de la dernière modification de la donnée dans le jeu. Il respecte le format ISO 8601 : année-mois-jour (YYYY-MM-DD). ",
