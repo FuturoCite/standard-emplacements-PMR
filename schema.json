@@ -18,7 +18,7 @@
     "resources":[
        {
           "title":"Fichier valide (CSV)",
-          "name":"exemple-valide.csv",
+          "name":"exemple-valide-csv",
           "path":"https://raw.githubusercontent.com/FuturoCite/standard-emplacements-PMR/main/exemple-valide.csv"
        }
     ],
