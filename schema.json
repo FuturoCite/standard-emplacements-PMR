@@ -18,8 +18,8 @@
     "resources":[
        {
           "title":"Fichier valide (CSV)",
-          "name":"exemple-valide-csv",
-          "path":"TBD"
+          "name":"exemple-valide.csv",
+          "path":"https://raw.githubusercontent.com/FuturoCite/standard-emplacements-PMR/main/exemple-valide.csv"
        }
     ],
     "author": "Futuro Cité, avec l'appui de Datactivist",
