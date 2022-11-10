@@ -203,8 +203,6 @@ Les fichiers doivent, sauf exception et autant que possible, respecter les règl
 
 Les fichiers doivent, sauf exception et autant que possible, respecter les règles de nommage suivantes :
 
-YYYY-MM-DD_idProducteur_lieux-de-mediation-numerique_territoire.csv
-
 * YYYY-MM-DD : Date de création du fichier
 * idProducteur : code ISN unique de la commune pour identifier le producteur
 * emplacements-pmr : nom du fichier, en minuscules non accentuées
