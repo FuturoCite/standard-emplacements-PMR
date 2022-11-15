@@ -255,8 +255,8 @@
             }
           },
           {
-            "name": "Modalité",
-            "title": "Largeur",
+            "name": "modalities",
+            "title": "Modalités",
             "description": "Ce champ décrit les modalités de réservation et informations des disponibilités de l'emplacement PMR.",
             "example": "L'emplacement est libre d'accès",
             "type": "string",
