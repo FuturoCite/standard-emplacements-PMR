@@ -12,8 +12,6 @@ La standardisation de ces données prioritaires est en effet essentielles pour s
 
 Les membres du groupe de travail ont défini un schéma de données qui décrit le format des fichiers, les différents champs, les valeurs possibles… Ils se sont appuyés sur un état des lieux du patrimoine de données des collectivités wallones et sur une étude des modèles utilisés par des collectivités déjà productrices de ces données (notamment Liège et Namur), en prenant en compte les retours faits par les réutilisateurs de données. 
 
-Toutes les réunions ont fait l'objet de comptes-rendus disponibles *ici - à ajouter !* 
-
 ## Description du schéma
 
 Un [gabarit au format tableur](https://github.com/FuturoCite/standard-emplacements-PMR/blob/main/Schema_emplacements_pmr_gabarit.xlsx) est également prévu pour faciliter la publication d'un jeu de données conforme au format du schéma.
