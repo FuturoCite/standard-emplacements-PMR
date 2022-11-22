@@ -16,9 +16,9 @@ Toutes les réunions ont fait l'objet de comptes-rendus disponibles *ici - à aj
 
 ## Description du schéma
 
-La documentation des champs du schéma est accessible sur .... *(le site de futurocité)*
+Un [gabarit au format tableur](https://github.com/FuturoCite/standard-emplacements-PMR/blob/main/Schema_emplacements_pmr_gabarit.xlsx) est également prévu pour faciliter la publication d'un jeu de données conforme au format du schéma.
 
-Un *gabarit au format tableur* est également prévu pour faciliter la publication d'un jeu de données conforme au format du schéma.
+Un exemple valide au format CSV est consultable [ici](https://github.com/FuturoCite/standard-emplacements-PMR/blob/main/exemple-valide.csv). 
 
 La tableau ci-dessous donne un aperçu des champs du schéma. 
 
