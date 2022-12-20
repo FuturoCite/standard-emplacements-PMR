@@ -278,7 +278,7 @@
             "name": "equipment",
             "title": "Equipement",
             "description": "Ce champ décrit les équipements présents sur l'emplacement PMR : arceau vélo, bornes de rechargement, installations relatives à l'accessibilité, …",
-            "example": "true",
+            "example": "arceau vélo",
             "type": "string",
             "constraints": {
                 "required": false
