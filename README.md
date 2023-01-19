@@ -24,12 +24,16 @@ La tableau ci-dessous donne un aperçu des champs du schéma.
   <tr>
    <td><strong>Nom</strong>
    </td>
+    <td><strong>Remplissage obligatoire/optionnel</strong>
+   </td>
    <td><strong>Description</strong>
    </td>
   </tr>
   <tr>
    <td>Identifiant 
    <br>(id)
+   </td>
+   <td> Obligatoire
    </td>
    <td>Ce champ contient un identifiant unique local. Le producteur de données
 le génère en associant le code INS de la commune dans laquelle se situe
