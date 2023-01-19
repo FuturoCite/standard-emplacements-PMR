@@ -129,7 +129,7 @@ en voirie)
    <td>Numéro de police (rue) le plus proche 
    <br>(house_number)
    </td>
-    <td>Optionnel
+    <td>Optionnel (recommandé)
    </td>
    <td>Ce champ est recommandé. Il contient le numéro de police (numéro de rue)
 le plus proche de l'emplacement PMR.
@@ -223,7 +223,7 @@ vélo, bornes de rechargement, installations relatives à l'accessibilité, …
    <td>Date de création de la donnée 
    <br>(created_date)
    </td>
-    <td>Optionnel
+    <td>Optionnel (recommandé)
    </td>
    <td>Ce champ indique la date de création de la donnée dans le jeu. Il
 respecte le format ISO 8601 : année-mois-jour (YYYY-MM-DD)
@@ -233,7 +233,7 @@ respecte le format ISO 8601 : année-mois-jour (YYYY-MM-DD)
    <td>Date de dernière modification de la donnée 
    <br>(last_modified_date)
    </td>
-    <td>Optionnel
+    <td>Optionnel (recommandé)
    </td>
    <td>Ce champ indique la date de la dernière modification de la donnée dans le
 jeu. Il respecte le format ISO 8601 : année-mois-jour (YYYY-MM-DD).
