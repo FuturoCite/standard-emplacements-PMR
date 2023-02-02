@@ -206,7 +206,7 @@ disponibilités de l'emplacement PMR.
     <td>Optionnel
    </td>
    <td>Ce champ précises si l'emplacement PMR est équipé de capteurs permettant
-d'accéder à des informations sur sa disponibilité en temps réels.
+d'accéder à des informations sur sa disponibilité en temps réels. Si l'emplacement est équipé de capteurs utiliser la valeur 'true'. Si non, la valeur 'false'.
    </td>
   </tr>
   <tr>
