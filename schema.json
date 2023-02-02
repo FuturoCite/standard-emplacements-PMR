@@ -267,7 +267,7 @@
           {
             "name": "availability",
             "title": "Disponibilité",
-            "description": "Ce champ précises si l'emplacement PMR est équipé de capteurs permettant d'accéder à des informations sur sa disponibilité en temps réels. Si l'emplacement est équipé de capteurs utiliser la valeur 'true'. Si non, la valeur 'false'.",
+            "description": "Ce champ précises si l'emplacement PMR est équipé de capteurs permettant d'accéder à des informations sur sa disponibilité en temps réels. Si l'emplacement est équipé de capteurs utiliser la valeur 'true'. Si non, la valeur 'false'. Si non applicable/non connu : ne pas renseigner ce champ.",
             "example": "true",
             "type": "boolean",
             "constraints": {
