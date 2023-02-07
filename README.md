@@ -126,12 +126,12 @@ en voirie)
    </td>
   </tr>
   <tr>
-   <td>Numéro de police (rue) le plus proche 
+   <td>Numéro de police le plus proche 
    <br>(house_number)
    </td>
     <td>Optionnel (recommandé)
    </td>
-   <td>Ce champ est recommandé. Il contient le numéro de police (numéro de rue)
+   <td>Ce champ est recommandé. Il contient le numéro de police (numéro de maison)
 le plus proche de l'emplacement PMR.
    </td>
   </tr>
