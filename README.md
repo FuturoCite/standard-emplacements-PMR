@@ -205,8 +205,7 @@ disponibilités de l'emplacement PMR.
    </td>
     <td>Optionnel
    </td>
-   <td>Ce champ précises si l'emplacement PMR est équipé de capteurs permettant
-d'accéder à des informations sur sa disponibilité en temps réels. Si l'emplacement est équipé de capteurs utiliser la valeur 'true'. Si non, la valeur 'false'. Si non applicable/non connu : ne pas renseigner ce champ.
+   <td>Ce champ précises si l'emplacement PMR est équipé de capteurs permettant d'accéder à des informations sur sa disponibilité en temps réels. Si l'emplacement est équipé de capteurs utiliser la valeur 'true'. Si non, la valeur 'false'. Si non applicable/non connu : ne pas renseigner ce champ.
    </td>
   </tr>
   <tr>
@@ -261,7 +260,7 @@ Les fichiers doivent, sauf exception et autant que possible, respecter les règl
 Les fichiers doivent, sauf exception et autant que possible, respecter les règles de nommage suivantes :
 
 * YYYY-MM-DD : Date de création du fichier
-* idProducteur : code ISN unique de la commune pour identifier le producteur
+* idProducteur : code INS unique de la commune pour identifier le producteur
 * emplacements-pmr : nom du fichier, en minuscules non accentuées
 * territoire : Nom du territoire concerné, non accentué (exemple : Liege)
 * extension : Si les règles de formatage sont respectées, l'extension est .csv
