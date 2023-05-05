@@ -222,7 +222,7 @@
                  "type": "Feature",
                  "geometry": {
                        "type": "Point",
-                       "coordinates": [50.4712861231,4.8248565701]
+                       "coordinates": [50.4712861231, 4.8248565701]
                        },
                  "properties": {
                    "name": "un nom"
