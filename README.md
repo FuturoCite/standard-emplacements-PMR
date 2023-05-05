@@ -153,9 +153,7 @@ point.
    </td>
     <td>Obligatoire
    </td>
-   <td>Ce champ indique les coordonnées de l'emplacement PMR. Il respecte le
-format WGS 1984 (latitude,longitude). Ne pas mettre d'espace après la virgule.
-Les coordonnées d'un lieu peuvent être générées ici :<a
+   <td>Ce champ indique les coordonnées de l'emplacement PMR. Il est au format GeoJSON (se référer au fichier csv d'exemple et/ou à la documentation pour un exemple de valeur bien formatée). Les coordonnées d'un lieu peuvent être générées ici :<a
 href="https://www.coordonnees-gps.fr/carte/pays/BE">
 https://www.coordonnees-gps.fr/carte/pays/BE</a>
    </td>
