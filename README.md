@@ -1,6 +1,7 @@
 # Schéma des emplacements PMR
 Ce schéma permet de modéliser les différents attributs des emplacements PMR 
 
+
 ## Contexte
 
 Il existe un besoin d'harmonisation de la publication en open data de données essentielles produites par les administrations publiques wallonnes. En octobre 2022, plus de 660 jeux de données sont publiés sur le portail [Open Data Wallonie Bruxelles (ODWB)](https://www.odwb.be/explore/?sort=modified), qui sont très hétérogènes. 
